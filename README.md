@@ -9,6 +9,8 @@
 
 - Работаю над [проектом](https://github.com/OG-Broski/GeometryDash3D)
 
+- Мой первый практически законченный ["проект"](https://play.google.com/store/apps/details?id=com.Lynx_Team.DrawRun) 
+
 ## Языки и инструменты
 
 <img aling="left" alt="C#" width="35px" src="./Assets\icons8-логотип-c-sharp-50.png" /><img aling="left" alt="Unity" width="35px" src="./Assets\icons8-unity-50.png" /><img aling="left" alt="C#" width="35px" src="./Assets\icons8-c++-50.png" /><img aling="left" alt="C#" width="35px" src="./Assets\icons8-mysql-50.png" /><img aling="left" alt="C#" width="35px" src="./Assets\icons8-visual-studio-code-2019-48.png" />

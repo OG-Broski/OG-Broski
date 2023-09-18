@@ -1,7 +1,6 @@
 ![Header](https://github.com/OG-Broski/OG-Broski/blob/main/Assets/giphy.gif)
 
-## Привет, меня зовут Ваня
-### Я Junior Unity,c# разработчик
+### Unity,c# разработчик
 
 - Изучаю Unity, C#, C++
 
